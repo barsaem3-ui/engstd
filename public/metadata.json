@@ -1,0 +1,7700 @@
+{
+  "level1": [
+    {
+      "pattern_num": 1,
+      "intro_image": "images/level1/pattern_1_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_1_ex_1.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_1_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_1_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 2,
+      "intro_image": "images/level1/pattern_2_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_2_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_2_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_2_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_2_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_2_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 3,
+      "intro_image": "images/level1/pattern_3_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_3_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_3_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_3_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_3_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_3_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 4,
+      "intro_image": "images/level1/pattern_4_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_4_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_4_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_4_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_4_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_4_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 5,
+      "intro_image": "images/level1/pattern_5_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_5_ex_1.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 6,
+      "intro_image": "images/level1/pattern_6_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_6_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_6_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_6_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_6_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_6_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 7,
+      "intro_image": "images/level1/pattern_7_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_7_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_7_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_7_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_7_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_7_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 8,
+      "intro_image": "images/level1/pattern_8_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_8_ex_1.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_8_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_8_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_8_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 9,
+      "intro_image": "images/level1/pattern_9_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_9_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_9_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_9_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_9_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_9_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 10,
+      "intro_image": "images/level1/pattern_10_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_10_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_10_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_10_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_10_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_10_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 11,
+      "intro_image": "images/level1/pattern_11_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_11_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_11_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_11_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_11_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_11_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 12,
+      "intro_image": "images/level1/pattern_12_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_12_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_12_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_12_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_12_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_12_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 13,
+      "intro_image": "images/level1/pattern_13_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_13_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_13_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_13_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_13_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_13_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 14,
+      "intro_image": "images/level1/pattern_14_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_14_ex_1.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_14_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_14_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_14_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 15,
+      "intro_image": "images/level1/pattern_15_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_15_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_15_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_15_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_15_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_15_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 16,
+      "intro_image": "images/level1/pattern_16_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_16_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_16_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_16_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_16_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_16_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 17,
+      "intro_image": "images/level1/pattern_17_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_17_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_17_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_17_ex_3.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_17_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 18,
+      "intro_image": "images/level1/pattern_18_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_18_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_18_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_18_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_18_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_18_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 19,
+      "intro_image": "images/level1/pattern_19_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_19_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_19_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_19_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_19_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_19_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 20,
+      "intro_image": "images/level1/pattern_20_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_20_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_20_ex_2.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_20_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_20_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 21,
+      "intro_image": "images/level1/pattern_21_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_21_ex_1.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_21_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_21_ex_4.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 22,
+      "intro_image": "images/level1/pattern_22_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_22_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_22_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_22_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_22_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_22_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 23,
+      "intro_image": "images/level1/pattern_23_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_23_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_23_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_23_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_23_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_23_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 24,
+      "intro_image": "images/level1/pattern_24_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_24_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_24_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_24_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_24_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_24_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 25,
+      "intro_image": "images/level1/pattern_25_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_25_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_25_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_25_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_25_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_25_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 26,
+      "intro_image": "images/level1/pattern_26_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_26_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_26_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_26_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_26_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_26_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 27,
+      "intro_image": "images/level1/pattern_27_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_27_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_27_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_27_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_27_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_27_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 28,
+      "intro_image": "images/level1/pattern_28_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_28_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_28_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_28_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_28_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_28_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 29,
+      "intro_image": "images/level1/pattern_29_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_29_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_29_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_29_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_29_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_29_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 30,
+      "intro_image": "images/level1/pattern_30_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_30_ex_1.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_30_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_30_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_30_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 31,
+      "intro_image": "images/level1/pattern_31_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_31_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_31_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_31_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_31_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_31_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 32,
+      "intro_image": "images/level1/pattern_32_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_32_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_32_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_32_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_32_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_32_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 33,
+      "intro_image": "images/level1/pattern_33_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_33_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_33_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_33_ex_3.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_33_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 34,
+      "intro_image": "images/level1/pattern_34_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_34_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_34_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_34_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_34_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_34_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 35,
+      "intro_image": "images/level1/pattern_35_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_35_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_35_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_35_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_35_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_35_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 36,
+      "intro_image": "images/level1/pattern_36_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_36_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_36_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_36_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_36_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_36_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 37,
+      "intro_image": "images/level1/pattern_37_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_37_ex_1.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_37_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_37_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_37_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 38,
+      "intro_image": "images/level1/pattern_38_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_38_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_38_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_38_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_38_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_38_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 39,
+      "intro_image": "images/level1/pattern_39_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_39_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_39_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_39_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_39_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_39_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 40,
+      "intro_image": "images/level1/pattern_40_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_40_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_40_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_40_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_40_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_40_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 41,
+      "intro_image": "images/level1/pattern_41_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_41_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_41_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_41_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_41_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_41_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 42,
+      "intro_image": "images/level1/pattern_42_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_42_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_42_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_42_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_42_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_42_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 43,
+      "intro_image": "images/level1/pattern_43_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_43_ex_1.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_43_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_43_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_43_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 44,
+      "intro_image": "images/level1/pattern_44_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_44_ex_1.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_44_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_44_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 45,
+      "intro_image": "images/level1/pattern_45_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_45_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_45_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_45_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_45_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_45_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 46,
+      "intro_image": "images/level1/pattern_46_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_46_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_46_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_46_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_46_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_46_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 47,
+      "intro_image": "images/level1/pattern_47_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_47_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_47_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_47_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_47_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_47_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 48,
+      "intro_image": "images/level1/pattern_48_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_48_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_48_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_48_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_48_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_48_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 49,
+      "intro_image": "images/level1/pattern_49_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_49_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_49_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_49_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_49_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_49_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 50,
+      "intro_image": "images/level1/pattern_50_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_50_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_50_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_50_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_50_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_50_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 51,
+      "intro_image": "images/level1/pattern_51_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_51_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_51_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_51_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_51_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_51_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 52,
+      "intro_image": "images/level1/pattern_52_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_52_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_52_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_52_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_52_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_52_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 53,
+      "intro_image": "images/level1/pattern_53_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_53_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_53_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_53_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_53_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_53_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 54,
+      "intro_image": "images/level1/pattern_54_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_54_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_54_ex_2.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_54_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_54_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 55,
+      "intro_image": "images/level1/pattern_55_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_55_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_55_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_55_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_55_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_55_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 56,
+      "intro_image": "images/level1/pattern_56_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_56_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_56_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_56_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_56_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_56_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 57,
+      "intro_image": "images/level1/pattern_57_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_57_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_57_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_57_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_57_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_57_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 58,
+      "intro_image": "images/level1/pattern_58_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_58_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_58_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_58_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_58_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_58_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 59,
+      "intro_image": "images/level1/pattern_59_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_59_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_59_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_59_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_59_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_59_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 60,
+      "intro_image": "images/level1/pattern_60_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_60_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_60_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_60_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_60_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_60_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 61,
+      "intro_image": "images/level1/pattern_61_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_61_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_61_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_61_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_61_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_61_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 62,
+      "intro_image": "images/level1/pattern_62_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_62_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_62_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_62_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_62_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_62_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 63,
+      "intro_image": "images/level1/pattern_63_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_63_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_63_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_63_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_63_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_63_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 64,
+      "intro_image": "images/level1/pattern_64_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_64_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_64_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_64_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_64_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_64_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 65,
+      "intro_image": "images/level1/pattern_65_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_65_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_65_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_65_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_65_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_65_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 66,
+      "intro_image": "images/level1/pattern_66_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_66_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_66_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_66_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_66_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_66_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 67,
+      "intro_image": "images/level1/pattern_67_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_67_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_67_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_67_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_67_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_67_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 68,
+      "intro_image": "images/level1/pattern_68_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_68_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_68_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_68_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_68_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_68_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 69,
+      "intro_image": "images/level1/pattern_69_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_69_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_69_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_69_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_69_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_69_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 70,
+      "intro_image": "images/level1/pattern_70_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_70_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_70_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_70_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_70_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_70_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 71,
+      "intro_image": "images/level1/pattern_71_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_71_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_71_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_71_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_71_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_71_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 72,
+      "intro_image": "images/level1/pattern_72_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_72_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_72_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_72_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_72_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_72_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 73,
+      "intro_image": "images/level1/pattern_73_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_73_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_73_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_73_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_73_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_73_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 74,
+      "intro_image": "images/level1/pattern_74_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_74_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_74_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_74_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_74_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_74_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 75,
+      "intro_image": "images/level1/pattern_75_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_75_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_75_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_75_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_75_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_75_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 76,
+      "intro_image": "images/level1/pattern_76_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_76_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_76_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_76_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_76_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_76_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 77,
+      "intro_image": "images/level1/pattern_77_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_77_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_77_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_77_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_77_ex_4.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 78,
+      "intro_image": "images/level1/pattern_78_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_78_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_78_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_78_ex_3.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_78_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 79,
+      "intro_image": "images/level1/pattern_79_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_79_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_79_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_79_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_79_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_79_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 80,
+      "intro_image": "images/level1/pattern_80_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_80_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_80_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_80_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_80_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_80_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 81,
+      "intro_image": "images/level1/pattern_81_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_81_ex_1.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_81_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_81_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 82,
+      "intro_image": "images/level1/pattern_82_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_82_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_82_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_82_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_82_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_82_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 83,
+      "intro_image": "images/level1/pattern_83_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_83_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_83_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_83_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_83_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_83_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 84,
+      "intro_image": "images/level1/pattern_84_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_84_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_84_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_84_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_84_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_84_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 85,
+      "intro_image": "images/level1/pattern_85_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_85_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_85_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_85_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_85_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_85_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 86,
+      "intro_image": "images/level1/pattern_86_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_86_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_86_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_86_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_86_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_86_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 87,
+      "intro_image": "images/level1/pattern_87_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_87_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_87_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_87_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_87_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_87_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 88,
+      "intro_image": "images/level1/pattern_88_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_88_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_88_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_88_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_88_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_88_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 89,
+      "intro_image": "images/level1/pattern_89_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_89_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_89_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_89_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_89_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_89_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 90,
+      "intro_image": "images/level1/pattern_90_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level1/pattern_90_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level1/pattern_90_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level1/pattern_90_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level1/pattern_90_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level1/pattern_90_ex_5.jpeg"
+        }
+      ]
+    }
+  ],
+  "level2": [
+    {
+      "pattern_num": 91,
+      "intro_image": "images/level2/pattern_91_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_91_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_91_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_91_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_91_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_91_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 92,
+      "intro_image": "images/level2/pattern_92_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_92_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_92_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_92_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_92_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_92_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 93,
+      "intro_image": "images/level2/pattern_93_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_93_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_93_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_93_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_93_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_93_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 94,
+      "intro_image": "images/level2/pattern_94_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_94_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_94_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_94_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_94_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_94_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 95,
+      "intro_image": "images/level2/pattern_95_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_95_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_95_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_95_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_95_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_95_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 96,
+      "intro_image": "images/level2/pattern_96_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_96_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_96_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_96_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_96_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_96_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 97,
+      "intro_image": "images/level2/pattern_97_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_97_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_97_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_97_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_97_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_97_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 98,
+      "intro_image": "images/level2/pattern_98_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_98_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_98_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_98_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_98_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_98_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 99,
+      "intro_image": "images/level2/pattern_99_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_99_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_99_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_99_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_99_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_99_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 100,
+      "intro_image": "images/level2/pattern_100_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_100_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_100_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_100_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_100_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_100_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 101,
+      "intro_image": "images/level2/pattern_101_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_101_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_101_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_101_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_101_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_101_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 102,
+      "intro_image": "images/level2/pattern_102_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_102_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_102_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_102_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_102_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_102_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 103,
+      "intro_image": "images/level2/pattern_103_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_103_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_103_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_103_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_103_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_103_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 104,
+      "intro_image": "images/level2/pattern_104_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_104_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_104_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_104_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_104_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_104_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 105,
+      "intro_image": "images/level2/pattern_105_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_105_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_105_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_105_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_105_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_105_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 106,
+      "intro_image": "images/level2/pattern_106_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_106_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_106_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_106_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_106_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_106_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 107,
+      "intro_image": "images/level2/pattern_107_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_107_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_107_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_107_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_107_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_107_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 108,
+      "intro_image": "images/level2/pattern_108_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_108_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_108_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_108_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_108_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_108_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 109,
+      "intro_image": "images/level2/pattern_109_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_109_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_109_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_109_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_109_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_109_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 110,
+      "intro_image": "images/level2/pattern_110_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_110_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_110_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_110_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_110_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_110_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 111,
+      "intro_image": "images/level2/pattern_111_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_111_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_111_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_111_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_111_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_111_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 112,
+      "intro_image": "images/level2/pattern_112_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_112_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_112_ex_2.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_112_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_112_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 113,
+      "intro_image": "images/level2/pattern_113_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_113_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_113_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_113_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_113_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_113_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 114,
+      "intro_image": "images/level2/pattern_114_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_114_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_114_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_114_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_114_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_114_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 115,
+      "intro_image": "images/level2/pattern_115_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_115_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_115_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_115_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_115_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_115_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 116,
+      "intro_image": "images/level2/pattern_116_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_116_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_116_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_116_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_116_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_116_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 117,
+      "intro_image": "images/level2/pattern_117_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_117_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_117_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_117_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_117_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_117_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 118,
+      "intro_image": "images/level2/pattern_118_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_118_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_118_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_118_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_118_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_118_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 119,
+      "intro_image": "images/level2/pattern_119_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_119_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_119_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_119_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_119_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_119_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 120,
+      "intro_image": "images/level2/pattern_120_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_120_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_120_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_120_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_120_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_120_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 121,
+      "intro_image": "images/level2/pattern_121_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_121_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_121_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_121_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_121_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_121_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 122,
+      "intro_image": "images/level2/pattern_122_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_122_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_122_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_122_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_122_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_122_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 123,
+      "intro_image": "images/level2/pattern_123_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_123_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_123_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_123_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_123_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_123_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 124,
+      "intro_image": "images/level2/pattern_124_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_124_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_124_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_124_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_124_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_124_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 125,
+      "intro_image": "images/level2/pattern_125_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_125_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_125_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_125_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_125_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_125_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 126,
+      "intro_image": "images/level2/pattern_126_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_126_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_126_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_126_ex_3.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 127,
+      "intro_image": "images/level2/pattern_127_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_127_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_127_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_127_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_127_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_127_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 128,
+      "intro_image": "images/level2/pattern_128_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_128_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_128_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_128_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_128_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_128_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 129,
+      "intro_image": "images/level2/pattern_129_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_129_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_129_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_129_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_129_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_129_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 130,
+      "intro_image": "images/level2/pattern_130_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_130_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_130_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_130_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_130_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_130_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 131,
+      "intro_image": "images/level2/pattern_131_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_131_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_131_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_131_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_131_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_131_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 132,
+      "intro_image": "images/level2/pattern_132_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_132_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_132_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_132_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_132_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_132_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 133,
+      "intro_image": "images/level2/pattern_133_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_133_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_133_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_133_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_133_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_133_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 134,
+      "intro_image": "images/level2/pattern_134_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_134_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_134_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_134_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_134_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_134_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 135,
+      "intro_image": "images/level2/pattern_135_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_135_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_135_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_135_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_135_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_135_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 136,
+      "intro_image": "images/level2/pattern_136_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_136_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_136_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_136_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_136_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_136_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 137,
+      "intro_image": "images/level2/pattern_137_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_137_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_137_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_137_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_137_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_137_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 138,
+      "intro_image": "images/level2/pattern_138_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_138_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_138_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_138_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_138_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_138_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 139,
+      "intro_image": "images/level2/pattern_139_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_139_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_139_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_139_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_139_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_139_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 140,
+      "intro_image": "images/level2/pattern_140_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_140_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_140_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_140_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_140_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_140_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 141,
+      "intro_image": "images/level2/pattern_141_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_141_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_141_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_141_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_141_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_141_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 142,
+      "intro_image": "images/level2/pattern_142_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_142_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_142_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_142_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_142_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_142_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 143,
+      "intro_image": "images/level2/pattern_143_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_143_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_143_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_143_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_143_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_143_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 144,
+      "intro_image": "images/level2/pattern_144_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_144_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_144_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_144_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_144_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_144_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 145,
+      "intro_image": "images/level2/pattern_145_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_145_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_145_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_145_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_145_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_145_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 146,
+      "intro_image": "images/level2/pattern_146_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_146_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_146_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_146_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_146_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_146_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 147,
+      "intro_image": "images/level2/pattern_147_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_147_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_147_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_147_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_147_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_147_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 148,
+      "intro_image": "images/level2/pattern_148_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_148_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_148_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_148_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_148_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_148_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 149,
+      "intro_image": "images/level2/pattern_149_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_149_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_149_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_149_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_149_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_149_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 150,
+      "intro_image": "images/level2/pattern_150_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_150_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_150_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_150_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_150_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_150_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 151,
+      "intro_image": "images/level2/pattern_151_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_151_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_151_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_151_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_151_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_151_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 152,
+      "intro_image": "images/level2/pattern_152_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_152_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_152_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_152_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_152_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_152_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 153,
+      "intro_image": "images/level2/pattern_153_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_153_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_153_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_153_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_153_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_153_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 154,
+      "intro_image": "images/level2/pattern_154_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_154_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_154_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_154_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_154_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_154_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 155,
+      "intro_image": "images/level2/pattern_155_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_155_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_155_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_155_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_155_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_155_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 156,
+      "intro_image": "images/level2/pattern_156_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_156_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_156_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_156_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_156_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_156_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 157,
+      "intro_image": "images/level2/pattern_157_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_157_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_157_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_157_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_157_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_157_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 158,
+      "intro_image": "images/level2/pattern_158_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_158_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_158_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_158_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_158_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_158_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 159,
+      "intro_image": "images/level2/pattern_159_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_159_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_159_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_159_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_159_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_159_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 160,
+      "intro_image": "images/level2/pattern_160_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_160_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_160_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_160_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_160_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_160_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 161,
+      "intro_image": "images/level2/pattern_161_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_161_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_161_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_161_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_161_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_161_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 162,
+      "intro_image": "images/level2/pattern_162_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_162_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_162_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_162_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_162_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_162_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 163,
+      "intro_image": "images/level2/pattern_163_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_163_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_163_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_163_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_163_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_163_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 164,
+      "intro_image": "images/level2/pattern_164_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_164_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_164_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_164_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_164_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_164_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 165,
+      "intro_image": "images/level2/pattern_165_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_165_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_165_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_165_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_165_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_165_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 166,
+      "intro_image": "images/level2/pattern_166_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_166_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_166_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_166_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_166_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_166_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 167,
+      "intro_image": "images/level2/pattern_167_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_167_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_167_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_167_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_167_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_167_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 168,
+      "intro_image": "images/level2/pattern_168_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_168_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_168_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_168_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_168_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_168_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 169,
+      "intro_image": "images/level2/pattern_169_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_169_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_169_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_169_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_169_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_169_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 170,
+      "intro_image": "images/level2/pattern_170_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_170_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_170_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_170_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_170_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_170_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 171,
+      "intro_image": "images/level2/pattern_171_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_171_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_171_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_171_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_171_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_171_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 172,
+      "intro_image": "images/level2/pattern_172_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_172_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_172_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_172_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_172_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_172_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 173,
+      "intro_image": "images/level2/pattern_173_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_173_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_173_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_173_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_173_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_173_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 174,
+      "intro_image": "images/level2/pattern_174_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_174_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_174_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_174_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_174_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_174_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 175,
+      "intro_image": "images/level2/pattern_175_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_175_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_175_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_175_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_175_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_175_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 176,
+      "intro_image": "images/level2/pattern_176_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_176_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_176_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_176_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_176_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_176_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 177,
+      "intro_image": "images/level2/pattern_177_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_177_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_177_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_177_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_177_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_177_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 178,
+      "intro_image": "images/level2/pattern_178_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_178_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_178_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_178_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_178_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_178_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 179,
+      "intro_image": "images/level2/pattern_179_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_179_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_179_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_179_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_179_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_179_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 180,
+      "intro_image": "images/level2/pattern_180_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_180_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_180_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_180_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_180_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_180_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 181,
+      "intro_image": "images/level2/pattern_181_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_181_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_181_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_181_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_181_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_181_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 182,
+      "intro_image": "images/level2/pattern_182_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_182_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_182_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_182_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_182_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_182_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 183,
+      "intro_image": "images/level2/pattern_183_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_183_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_183_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_183_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_183_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_183_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 184,
+      "intro_image": "images/level2/pattern_184_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_184_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_184_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_184_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_184_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_184_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 185,
+      "intro_image": "images/level2/pattern_185_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_185_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_185_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_185_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_185_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_185_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 186,
+      "intro_image": "images/level2/pattern_186_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_186_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_186_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_186_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_186_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_186_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 187,
+      "intro_image": "images/level2/pattern_187_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_187_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_187_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_187_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_187_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_187_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 188,
+      "intro_image": "images/level2/pattern_188_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_188_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_188_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_188_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_188_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_188_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 189,
+      "intro_image": "images/level2/pattern_189_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_189_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_189_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_189_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_189_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_189_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 190,
+      "intro_image": "images/level2/pattern_190_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_190_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_190_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_190_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_190_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_190_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 191,
+      "intro_image": "images/level2/pattern_191_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_191_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_191_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_191_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_191_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_191_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 192,
+      "intro_image": "images/level2/pattern_192_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_192_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_192_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_192_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_192_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_192_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 193,
+      "intro_image": "images/level2/pattern_193_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_193_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_193_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_193_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_193_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_193_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 194,
+      "intro_image": "images/level2/pattern_194_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_194_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_194_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_194_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_194_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_194_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 195,
+      "intro_image": "images/level2/pattern_195_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_195_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_195_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_195_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_195_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_195_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 196,
+      "intro_image": "images/level2/pattern_196_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_196_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_196_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_196_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_196_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_196_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 197,
+      "intro_image": "images/level2/pattern_197_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_197_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_197_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_197_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_197_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_197_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 198,
+      "intro_image": "images/level2/pattern_198_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_198_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_198_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_198_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_198_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_198_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 199,
+      "intro_image": "images/level2/pattern_199_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_199_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_199_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_199_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_199_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_199_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 200,
+      "intro_image": "images/level2/pattern_200_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_200_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_200_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_200_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_200_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_200_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 201,
+      "intro_image": "images/level2/pattern_201_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_201_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_201_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_201_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_201_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_201_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 202,
+      "intro_image": "images/level2/pattern_202_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_202_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_202_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_202_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_202_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_202_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 203,
+      "intro_image": "images/level2/pattern_203_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_203_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_203_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_203_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_203_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_203_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 204,
+      "intro_image": "images/level2/pattern_204_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_204_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_204_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_204_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_204_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_204_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 205,
+      "intro_image": "images/level2/pattern_205_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_205_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_205_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_205_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_205_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_205_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 206,
+      "intro_image": "images/level2/pattern_206_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_206_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_206_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_206_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_206_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_206_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 207,
+      "intro_image": "images/level2/pattern_207_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_207_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_207_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_207_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_207_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_207_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 208,
+      "intro_image": "images/level2/pattern_208_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_208_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_208_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_208_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_208_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_208_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 209,
+      "intro_image": "images/level2/pattern_209_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_209_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_209_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_209_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_209_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_209_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 210,
+      "intro_image": "images/level2/pattern_210_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level2/pattern_210_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level2/pattern_210_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level2/pattern_210_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level2/pattern_210_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level2/pattern_210_ex_5.jpeg"
+        }
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "pattern_num": 211,
+      "intro_image": "images/level3/pattern_211_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_211_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_211_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_211_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_211_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_211_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 212,
+      "intro_image": "images/level3/pattern_212_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_212_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_212_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_212_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_212_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_212_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 213,
+      "intro_image": "images/level3/pattern_213_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_213_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_213_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_213_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_213_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_213_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 214,
+      "intro_image": "images/level3/pattern_214_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_214_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_214_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_214_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_214_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_214_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 215,
+      "intro_image": "images/level3/pattern_215_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_215_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_215_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_215_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_215_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_215_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 216,
+      "intro_image": "images/level3/pattern_216_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_216_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_216_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_216_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_216_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_216_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 217,
+      "intro_image": "images/level3/pattern_217_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_217_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_217_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_217_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_217_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_217_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 218,
+      "intro_image": "images/level3/pattern_218_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_218_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_218_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_218_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_218_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_218_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 219,
+      "intro_image": "images/level3/pattern_219_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_219_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_219_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_219_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_219_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_219_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 220,
+      "intro_image": "images/level3/pattern_220_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_220_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_220_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_220_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_220_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_220_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 221,
+      "intro_image": "images/level3/pattern_221_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_221_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_221_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_221_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_221_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_221_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 222,
+      "intro_image": "images/level3/pattern_222_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_222_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_222_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_222_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_222_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_222_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 223,
+      "intro_image": "images/level3/pattern_223_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_223_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_223_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_223_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_223_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_223_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 224,
+      "intro_image": "images/level3/pattern_224_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_224_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_224_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_224_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_224_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_224_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 225,
+      "intro_image": "images/level3/pattern_225_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_225_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_225_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_225_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_225_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_225_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 226,
+      "intro_image": "images/level3/pattern_226_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_226_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_226_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_226_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_226_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_226_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 227,
+      "intro_image": "images/level3/pattern_227_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_227_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_227_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_227_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_227_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_227_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 228,
+      "intro_image": "images/level3/pattern_228_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_228_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_228_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_228_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_228_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_228_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 229,
+      "intro_image": "images/level3/pattern_229_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_229_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_229_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_229_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_229_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_229_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 230,
+      "intro_image": "images/level3/pattern_230_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_230_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_230_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_230_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_230_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_230_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 231,
+      "intro_image": "images/level3/pattern_231_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_231_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_231_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_231_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_231_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_231_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 232,
+      "intro_image": "images/level3/pattern_232_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_232_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_232_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_232_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_232_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_232_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 233,
+      "intro_image": "images/level3/pattern_233_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_233_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_233_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_233_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_233_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_233_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 234,
+      "intro_image": "images/level3/pattern_234_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_234_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_234_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_234_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_234_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_234_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 235,
+      "intro_image": "images/level3/pattern_235_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_235_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_235_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_235_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_235_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_235_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 236,
+      "intro_image": "images/level3/pattern_236_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_236_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_236_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_236_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_236_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_236_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 237,
+      "intro_image": "images/level3/pattern_237_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_237_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_237_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_237_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_237_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_237_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 238,
+      "intro_image": "images/level3/pattern_238_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_238_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_238_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_238_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_238_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_238_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 239,
+      "intro_image": "images/level3/pattern_239_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_239_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_239_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_239_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_239_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_239_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 240,
+      "intro_image": "images/level3/pattern_240_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_240_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_240_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_240_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_240_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_240_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 241,
+      "intro_image": "images/level3/pattern_241_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_241_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_241_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_241_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_241_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_241_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 242,
+      "intro_image": "images/level3/pattern_242_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_242_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_242_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_242_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_242_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_242_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 243,
+      "intro_image": "images/level3/pattern_243_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_243_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_243_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_243_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_243_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_243_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 244,
+      "intro_image": "images/level3/pattern_244_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_244_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_244_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_244_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_244_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_244_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 245,
+      "intro_image": "images/level3/pattern_245_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_245_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_245_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_245_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_245_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_245_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 246,
+      "intro_image": "images/level3/pattern_246_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_246_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_246_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_246_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_246_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_246_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 247,
+      "intro_image": "images/level3/pattern_247_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_247_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_247_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_247_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_247_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_247_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 248,
+      "intro_image": "images/level3/pattern_248_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_248_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_248_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_248_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_248_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_248_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 249,
+      "intro_image": "images/level3/pattern_249_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_249_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_249_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_249_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_249_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_249_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 250,
+      "intro_image": "images/level3/pattern_250_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_250_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_250_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_250_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_250_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_250_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 251,
+      "intro_image": "images/level3/pattern_251_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_251_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_251_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_251_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_251_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_251_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 252,
+      "intro_image": "images/level3/pattern_252_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_252_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_252_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_252_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_252_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_252_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 253,
+      "intro_image": "images/level3/pattern_253_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_253_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_253_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_253_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_253_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_253_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 254,
+      "intro_image": "images/level3/pattern_254_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_254_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_254_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_254_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_254_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_254_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 255,
+      "intro_image": "images/level3/pattern_255_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_255_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_255_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_255_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_255_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_255_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 256,
+      "intro_image": "images/level3/pattern_256_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_256_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_256_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_256_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_256_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_256_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 257,
+      "intro_image": "images/level3/pattern_257_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_257_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_257_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_257_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_257_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_257_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 258,
+      "intro_image": "images/level3/pattern_258_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_258_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_258_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_258_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_258_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_258_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 259,
+      "intro_image": "images/level3/pattern_259_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_259_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_259_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_259_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_259_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_259_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 260,
+      "intro_image": "images/level3/pattern_260_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_260_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_260_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_260_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_260_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_260_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 261,
+      "intro_image": "images/level3/pattern_261_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_261_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_261_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_261_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_261_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_261_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 262,
+      "intro_image": "images/level3/pattern_262_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_262_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_262_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_262_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_262_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_262_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 263,
+      "intro_image": "images/level3/pattern_263_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_263_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_263_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_263_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_263_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_263_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 264,
+      "intro_image": "images/level3/pattern_264_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_264_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_264_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_264_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_264_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_264_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 265,
+      "intro_image": "images/level3/pattern_265_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_265_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_265_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_265_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_265_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_265_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 266,
+      "intro_image": "images/level3/pattern_266_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_266_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_266_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_266_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_266_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_266_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 267,
+      "intro_image": "images/level3/pattern_267_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_267_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_267_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_267_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_267_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_267_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 268,
+      "intro_image": "images/level3/pattern_268_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_268_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_268_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_268_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_268_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_268_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 269,
+      "intro_image": "images/level3/pattern_269_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_269_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_269_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_269_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_269_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_269_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 270,
+      "intro_image": "images/level3/pattern_270_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_270_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_270_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_270_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_270_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_270_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 271,
+      "intro_image": "images/level3/pattern_271_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_271_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_271_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_271_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_271_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_271_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 272,
+      "intro_image": "images/level3/pattern_272_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_272_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_272_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_272_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_272_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_272_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 273,
+      "intro_image": "images/level3/pattern_273_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_273_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_273_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_273_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_273_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_273_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 274,
+      "intro_image": "images/level3/pattern_274_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_274_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_274_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_274_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_274_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_274_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 275,
+      "intro_image": "images/level3/pattern_275_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_275_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_275_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_275_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_275_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_275_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 276,
+      "intro_image": "images/level3/pattern_276_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_276_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_276_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_276_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_276_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_276_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 277,
+      "intro_image": "images/level3/pattern_277_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_277_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_277_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_277_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_277_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_277_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 278,
+      "intro_image": "images/level3/pattern_278_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_278_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_278_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_278_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_278_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_278_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 279,
+      "intro_image": "images/level3/pattern_279_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_279_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_279_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_279_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_279_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_279_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 280,
+      "intro_image": "images/level3/pattern_280_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_280_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_280_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_280_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_280_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_280_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 281,
+      "intro_image": "images/level3/pattern_281_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_281_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_281_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_281_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_281_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_281_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 282,
+      "intro_image": "images/level3/pattern_282_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_282_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_282_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_282_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_282_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_282_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 283,
+      "intro_image": "images/level3/pattern_283_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_283_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_283_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_283_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_283_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_283_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 284,
+      "intro_image": "images/level3/pattern_284_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_284_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_284_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_284_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_284_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_284_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 285,
+      "intro_image": "images/level3/pattern_285_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_285_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_285_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_285_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_285_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_285_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 286,
+      "intro_image": "images/level3/pattern_286_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_286_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_286_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_286_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_286_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_286_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 287,
+      "intro_image": "images/level3/pattern_287_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_287_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_287_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_287_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_287_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_287_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 288,
+      "intro_image": "images/level3/pattern_288_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_288_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_288_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_288_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_288_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_288_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 289,
+      "intro_image": "images/level3/pattern_289_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_289_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_289_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_289_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_289_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_289_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 290,
+      "intro_image": "images/level3/pattern_290_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_290_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_290_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_290_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_290_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_290_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 291,
+      "intro_image": "images/level3/pattern_291_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_291_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_291_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_291_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_291_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_291_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 292,
+      "intro_image": "images/level3/pattern_292_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_292_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_292_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_292_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_292_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_292_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 293,
+      "intro_image": "images/level3/pattern_293_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_293_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_293_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_293_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_293_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_293_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 294,
+      "intro_image": "images/level3/pattern_294_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_294_ex_1.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_294_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_294_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_294_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 295,
+      "intro_image": "images/level3/pattern_295_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_295_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_295_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_295_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_295_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_295_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 296,
+      "intro_image": "images/level3/pattern_296_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_296_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_296_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_296_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_296_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_296_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 297,
+      "intro_image": "images/level3/pattern_297_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_297_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_297_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_297_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_297_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_297_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 298,
+      "intro_image": "images/level3/pattern_298_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_298_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_298_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_298_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_298_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_298_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 299,
+      "intro_image": "images/level3/pattern_299_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_299_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_299_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_299_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_299_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_299_ex_5.jpeg"
+        }
+      ]
+    },
+    {
+      "pattern_num": 300,
+      "intro_image": "images/level3/pattern_300_intro.jpeg",
+      "examples": [
+        {
+          "type": "예문 1",
+          "image": "images/level3/pattern_300_ex_1.jpeg"
+        },
+        {
+          "type": "예문 2",
+          "image": "images/level3/pattern_300_ex_2.jpeg"
+        },
+        {
+          "type": "예문 3",
+          "image": "images/level3/pattern_300_ex_3.jpeg"
+        },
+        {
+          "type": "예문 4",
+          "image": "images/level3/pattern_300_ex_4.jpeg"
+        },
+        {
+          "type": "예문 5",
+          "image": "images/level3/pattern_300_ex_5.jpeg"
+        }
+      ]
+    }
+  ]
+}
