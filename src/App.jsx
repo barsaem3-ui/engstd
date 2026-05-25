@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Header from './components/Header';
+import Login from './components/Login';
 import LevelSelector from './components/LevelSelector';
 import PatternList from './components/PatternList';
 import ExampleList from './components/ExampleList';
@@ -7,8 +8,8 @@ import Lightbox from './components/Lightbox';
 import { db, isSupabaseConfigured } from './supabaseClient';
 
 export default function App() {
-  const [syncId, setSyncId] = useState(() => {
-    return localStorage.getItem('engstd_sync_id') || '기본학습자';
+  const [user, setUser] = useState(() => {
+    return localStorage.getItem('engstd_user_id') || null;
   });
   
   const [level, setLevel] = useState(null);
@@ -35,11 +36,13 @@ export default function App() {
       });
   }, []);
 
-  // 2. Load click counts when syncId changes or on mount
+  // 2. Load click counts when user changes or on mount
   useEffect(() => {
+    if (!user) return;
+
     async function loadClicks() {
       // Step A: Load from localStorage first (for instant local response)
-      const localKey = `clicks_${syncId}`;
+      const localKey = `clicks_${user}`;
       const localDataStr = localStorage.getItem(localKey);
       let localClicks = {};
       if (localDataStr) {
@@ -53,8 +56,8 @@ export default function App() {
       setClickCounts(localClicks);
 
       // Step B: Load from Supabase (if configured)
-      if (isSupabaseConfigured && syncId) {
-        const remoteClicksArray = await db.getClicks(syncId);
+      if (isSupabaseConfigured) {
+        const remoteClicksArray = await db.getClicks(user);
         
         if (remoteClicksArray && remoteClicksArray.length > 0) {
           // Merge logic: take maximum click count between local and remote
@@ -82,7 +85,7 @@ export default function App() {
                 const pNo = item.pattern_num;
                 const localVal = localClicks[pNo] || 0;
                 if (localVal > item.clicks) {
-                  db.upsertClick(syncId, item.level, pNo, localVal);
+                  db.upsertClick(user, item.level, pNo, localVal);
                 }
               });
             }
@@ -92,37 +95,45 @@ export default function App() {
     }
 
     loadClicks();
-  }, [syncId]);
+  }, [user]);
 
-  // 3. Sync SyncID changes
-  const handleSyncIdChange = (newSyncId) => {
-    if (!newSyncId) return;
-    setSyncId(newSyncId);
-    localStorage.setItem('engstd_sync_id', newSyncId);
+  // 3. Handle Login Success
+  const handleLoginSuccess = (loggedInUser) => {
+    setUser(loggedInUser);
+    localStorage.setItem('engstd_user_id', loggedInUser);
   };
 
-  // 4. Handle Pattern Card click (increment count, upsert database, navigate to examples)
+  // 4. Handle Logout
+  const handleLogout = () => {
+    setUser(null);
+    localStorage.removeItem('engstd_user_id');
+    setLevel(null);
+    setSelectedPattern(null);
+    setClickCounts({});
+  };
+
+  // 5. Handle Pattern Card click (increment count, upsert database, navigate to examples)
   const handlePatternClick = async (pattern) => {
     const pNo = pattern.pattern_num;
     const currentCount = clickCounts[pNo] || 0;
     const newCount = currentCount + 1;
     
     // A. Optimistic Update (Local State & Storage)
-    const localKey = `clicks_${syncId}`;
+    const localKey = `clicks_${user}`;
     const updatedClicks = { ...clickCounts, [pNo]: newCount };
     setClickCounts(updatedClicks);
     localStorage.setItem(localKey, JSON.stringify(updatedClicks));
     
     // B. Background Supabase Upsert
     if (isSupabaseConfigured) {
-      db.upsertClick(syncId, level, pNo, newCount);
+      db.upsertClick(user, level, pNo, newCount);
     }
     
     // C. Navigate to example slide deck
     setSelectedPattern(pattern);
   };
 
-  // 5. Open Lightbox
+  // 6. Open Lightbox
   const handleOpenLightbox = (slides, index) => {
     setLightboxSlides(slides);
     setLightboxIndex(index);
@@ -139,9 +150,14 @@ export default function App() {
     );
   }
 
+  // If no user is logged in, show the Login Screen
+  if (!user) {
+    return <Login onLoginSuccess={handleLoginSuccess} />;
+  }
+
   return (
     <div className="app-container">
-      <Header syncId={syncId} onSyncIdChange={handleSyncIdChange} />
+      <Header username={user} onLogout={handleLogout} />
       
       <main className="main-content">
         {!level ? (

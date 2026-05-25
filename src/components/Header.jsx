@@ -1,18 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { isSupabaseConfigured } from '../supabaseClient';
 
-export default function Header({ syncId, onSyncIdChange }) {
-  const [localSyncId, setLocalSyncId] = useState(syncId);
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    onSyncIdChange(localSyncId.trim());
-  };
-
-  const handleBlur = () => {
-    onSyncIdChange(localSyncId.trim());
-  };
-
+export default function Header({ username, onLogout }) {
   return (
     <header className="app-header">
       <div className="header-logo-group">
@@ -21,18 +10,11 @@ export default function Header({ syncId, onSyncIdChange }) {
         </h1>
       </div>
       
-      <form onSubmit={handleSubmit} className="sync-panel">
-        <span className="sync-label">
-          🔑 동기화 ID:
+      <div style={{ display: 'flex', alignItems: 'center', gap: '12px', flexWrap: 'wrap' }}>
+        <span className="user-info-badge">
+          👩‍🎓 {username.toUpperCase()}님 환영합니다!
         </span>
-        <input
-          type="text"
-          value={localSyncId}
-          onChange={(e) => setLocalSyncId(e.target.value)}
-          onBlur={handleBlur}
-          placeholder="이름이나 ID 입력"
-          className="sync-input"
-        />
+        
         {isSupabaseConfigured ? (
           <span className="sync-status-badge">
             ☁️ 실시간 동기화
@@ -42,7 +24,11 @@ export default function Header({ syncId, onSyncIdChange }) {
             💾 로컬 저장소
           </span>
         )}
-      </form>
+        
+        <button className="logout-button" onClick={onLogout}>
+          로그아웃 🚪
+        </button>
+      </div>
     </header>
   );
 }
