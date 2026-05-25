@@ -94,7 +94,7 @@ async function runExtraction() {
             }
             
             const filename = `pattern_${patternNum}_${fileTypeSuffix}.${ext}`;
-            const relativePath = `images/${config.dirName}/${filename}`;
+            const relativePath = `/images/${config.dirName}/${filename}`;
             const absolutePath = path.join(targetImagesDir, filename);
             
             // Write image to disk
