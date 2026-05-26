@@ -21,6 +21,9 @@ export default function App() {
   // Lightbox state
   const [lightboxSlides, setLightboxSlides] = useState([]);
   const [lightboxIndex, setLightboxIndex] = useState(null);
+  
+  // Scroll position retention state
+  const [savedScrollPos, setSavedScrollPos] = useState(0);
 
   // 1. Fetch metadata on mount
   useEffect(() => {
@@ -97,6 +100,19 @@ export default function App() {
     loadClicks();
   }, [user]);
 
+  // 2b. Scroll restoration hook
+  useEffect(() => {
+    if (selectedPattern === null && level !== null && savedScrollPos > 0) {
+      const timer = setTimeout(() => {
+        window.scrollTo({
+          top: savedScrollPos,
+          behavior: 'instant'
+        });
+      }, 50);
+      return () => clearTimeout(timer);
+    }
+  }, [selectedPattern, level, savedScrollPos]);
+
   // 3. Handle Login Success
   const handleLoginSuccess = (loggedInUser) => {
     setUser(loggedInUser);
@@ -114,6 +130,10 @@ export default function App() {
 
   // 5. Handle Pattern Card click (increment count, upsert database, navigate to examples)
   const handlePatternClick = async (pattern) => {
+    // Save current scroll position before unmounting the list
+    const currentScroll = window.scrollY || document.documentElement.scrollTop;
+    setSavedScrollPos(currentScroll);
+
     const pNo = pattern.pattern_num;
     const currentCount = clickCounts[pNo] || 0;
     const newCount = currentCount + 1;
@@ -169,7 +189,10 @@ export default function App() {
             level={level}
             patterns={metadata ? metadata[`level${level}`] : []}
             clickCounts={clickCounts}
-            onBack={() => setLevel(null)}
+            onBack={() => {
+              setLevel(null);
+              setSavedScrollPos(0);
+            }}
             onSelectPattern={handlePatternClick}
           />
         ) : (
