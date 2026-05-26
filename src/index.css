@@ -825,3 +825,81 @@ body {
   background-color: #fff5f5;
 }
 
+/* Cute Floating Bouncy Back (TOP) Button */
+.floating-back-btn {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 150;
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  border: 4px solid #ffffff;
+  color: #ffffff;
+  font-family: var(--font-cute);
+  font-size: 0.95rem;
+  font-weight: 900;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.3);
+  animation: floatingBounce 3s ease-in-out infinite;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.floating-back-btn:hover {
+  transform: scale(1.15) translateY(-8px);
+  box-shadow: 0 16px 32px rgba(0, 0, 0, 0.18);
+}
+
+.floating-back-btn:active {
+  transform: scale(0.92);
+}
+
+/* Level Color Themes for Floating Button */
+.floating-back-btn.l1 {
+  background-color: #3b82f6; /* cute sky blue */
+  box-shadow: 0 8px 24px rgba(59, 130, 246, 0.35);
+}
+.floating-back-btn.l1:hover {
+  background-color: #2563eb;
+  box-shadow: 0 16px 32px rgba(59, 130, 246, 0.45);
+}
+
+.floating-back-btn.l2 {
+  background-color: #10b981; /* cute mint green */
+  box-shadow: 0 8px 24px rgba(16, 185, 129, 0.35);
+}
+.floating-back-btn.l2:hover {
+  background-color: #059669;
+  box-shadow: 0 16px 32px rgba(16, 185, 129, 0.45);
+}
+
+.floating-back-btn.l3 {
+  background-color: #a855f7; /* cute lavender purple */
+  box-shadow: 0 8px 24px rgba(168, 85, 247, 0.35);
+}
+.floating-back-btn.l3:hover {
+  background-color: #9333ea;
+  box-shadow: 0 16px 32px rgba(168, 85, 247, 0.45);
+}
+
+@keyframes floatingBounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+
+/* Adjust layout on small screens so floating button doesn't hide elements */
+@media (max-width: 768px) {
+  .floating-back-btn {
+    width: 60px;
+    height: 60px;
+    font-size: 0.85rem;
+    bottom: 20px;
+    right: 20px;
+  }
+}
+
+

@@ -20,6 +20,14 @@ export default function ExampleList({ pattern, onBack, onSelectSlide }) {
     });
   });
 
+  const getLevelClass = () => {
+    const num = pattern.pattern_num;
+    if (num <= 90) return 'l1';
+    if (num <= 210) return 'l2';
+    return 'l3';
+  };
+  const levelClass = getLevelClass();
+
   return (
     <div className="animate-fade-in">
       <div className="view-header">
@@ -54,6 +62,11 @@ export default function ExampleList({ pattern, onBack, onSelectSlide }) {
           </div>
         ))}
       </div>
+
+      {/* Bouncy Floating Back Button */}
+      <button className={`floating-back-btn ${levelClass}`} onClick={onBack} aria-label="Go Back">
+        뒤로 🎈
+      </button>
     </div>
   );
 }

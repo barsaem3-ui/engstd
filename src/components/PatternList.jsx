@@ -36,6 +36,11 @@ export default function PatternList({ level, patterns, clickCounts, onBack, onSe
           );
         })}
       </div>
+
+      {/* Bouncy Floating Back Button */}
+      <button className={`floating-back-btn l${level}`} onClick={onBack} aria-label="Go Back">
+        뒤로 🎈
+      </button>
     </div>
   );
 }
