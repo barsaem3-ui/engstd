@@ -63,10 +63,13 @@ export default function ExampleList({ pattern, onBack, onSelectSlide }) {
         ))}
       </div>
 
-      {/* Bouncy Floating Back Button */}
-      <button className={`floating-back-btn ${levelClass}`} onClick={onBack} aria-label="Go Back">
-        뒤로 🎈
-      </button>
+      {/* Bouncy Floating Back Button Container */}
+      <div className="floating-btn-container">
+        <span className="floating-tooltip">아빠 윤성 화이팅💖</span>
+        <button className={`floating-back-btn ${levelClass}`} onClick={onBack} aria-label="Go Back">
+          뒤로 🎈
+        </button>
+      </div>
     </div>
   );
 }

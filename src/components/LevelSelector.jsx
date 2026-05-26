@@ -31,7 +31,7 @@ export default function LevelSelector({ onSelectLevel }) {
   return (
     <div className="level-selector-view animate-fade-in">
       <div className="welcome-section">
-        <h2 className="welcome-title">안녕하세요! 👋</h2>
+        <h2 className="welcome-title">아빠와 윤성이 영어 도전기! 👨‍👦✨</h2>
         <p className="welcome-desc">오늘도 신나게 핵심 영어 패턴을 마스터해 볼까요? 원하시는 난이도를 선택해 주세요!</p>
       </div>
       
