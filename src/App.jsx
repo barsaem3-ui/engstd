@@ -188,7 +188,7 @@ export default function App() {
           // View 4: 똑딱이암기 학습 전용 화면
           <MemorizeView
             user={user}
-            patterns={metadata ? metadata.level1 : []}
+            metadata={metadata}
             onBack={() => setLevel(null)}
           />
         ) : !selectedPattern ? (
