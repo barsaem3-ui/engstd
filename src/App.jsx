@@ -5,6 +5,7 @@ import LevelSelector from './components/LevelSelector';
 import PatternList from './components/PatternList';
 import ExampleList from './components/ExampleList';
 import Lightbox from './components/Lightbox';
+import MemorizeView from './components/MemorizeView';
 import { db, isSupabaseConfigured } from './supabaseClient';
 
 export default function App() {
@@ -183,6 +184,13 @@ export default function App() {
         {!level ? (
           // View 1: Level Selection Screen
           <LevelSelector onSelectLevel={setLevel} />
+        ) : level === 4 ? (
+          // View 4: 똑딱이암기 학습 전용 화면
+          <MemorizeView
+            user={user}
+            patterns={metadata ? metadata.level1 : []}
+            onBack={() => setLevel(null)}
+          />
         ) : !selectedPattern ? (
           // View 2: List of patterns within selected level
           <PatternList

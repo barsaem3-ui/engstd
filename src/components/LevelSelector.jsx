@@ -25,6 +25,14 @@ export default function LevelSelector({ onSelectLevel }) {
       range: 'Pattern 211 ~ 300',
       emoji: '🏆',
       className: 'advanced'
+    },
+    {
+      id: 4,
+      title: '똑딱이암기 학습',
+      subtitle: '초급 패턴(1~90) 가리고 외우기',
+      range: 'Pattern 1 ~ 90',
+      emoji: '🧠',
+      className: 'memorize'
     }
   ];
 

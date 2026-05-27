@@ -943,4 +943,313 @@ body {
   }
 }
 
+/* 똑딱이암기 level card theme */
+.level-card.memorize {
+  --card-border-hover: #ffe8cc;
+  --shadow-hover-color: 0 20px 40px rgba(254, 203, 137, 0.35);
+}
+
+/* 똑딱이암기 컨트롤 패널 */
+.memorize-controls-card {
+  background-color: #fffdf9;
+  border: 4px solid #f3efea;
+  border-radius: 28px;
+  padding: 24px;
+  margin-bottom: 32px;
+  box-shadow: var(--shadow-soft);
+  text-align: center;
+}
+
+.memorize-controls-title {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: var(--text-dark);
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.memorize-filter-group {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.memorize-filter-btn {
+  border: 3px solid #eeebe5;
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-family: var(--font-cute);
+  font-size: 0.9rem;
+  font-weight: 800;
+  color: #7c7267;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.2);
+}
+
+.memorize-filter-btn:hover {
+  transform: translateY(-2px);
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
+.memorize-filter-btn.active {
+  color: #ffffff;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.05);
+}
+
+.memorize-filter-btn.all.active {
+  background-color: #7c7267;
+  border-color: #7c7267;
+}
+
+.memorize-filter-btn.completed.active {
+  background-color: #2b7a66;
+  border-color: #2b7a66;
+}
+
+.memorize-filter-btn.incomplete.active {
+  background-color: #ff922b;
+  border-color: #ff922b;
+}
+
+.memorize-filter-btn.reset {
+  background-color: #fff5f5;
+  border-color: #ffe3e3;
+  color: #f03e3e;
+}
+
+.memorize-filter-btn.reset:hover {
+  background-color: #f03e3e;
+  border-color: #f03e3e;
+  color: #ffffff;
+  box-shadow: 0 6px 12px rgba(240, 62, 62, 0.2);
+}
+
+/* 똑딱이암기 카드 */
+.memorize-card {
+  background-color: #ffffff;
+  border-radius: 24px;
+  border: 4px solid #eeebe5;
+  padding: 14px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-shadow: var(--shadow-card);
+  transition: transform 0.25s, border-color 0.25s, box-shadow 0.25s;
+}
+
+.memorize-card.is-memorized {
+  border-color: #c2ded6;
+  background-color: #f8faf9;
+}
+
+.memorize-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 24px rgba(222, 204, 180, 0.2);
+}
+
+/* 똑딱이암기 이미지 및 가림막 */
+.memorize-image-container {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16/9;
+  border-radius: 16px;
+  overflow: hidden;
+  background-color: #f7f6f2;
+  border: 2px solid rgba(0, 0, 0, 0.03);
+  cursor: pointer;
+}
+
+/* 핵심 영어 가림막 */
+.memorize-mask {
+  position: absolute;
+  top: 23%;
+  left: 2.5%;
+  width: 95%;
+  height: 35%;
+  background-color: #ffffff;
+  border: 3px dashed #ffd8a8;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+  transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.2);
+  user-select: none;
+}
+
+.memorize-mask:hover {
+  transform: scale(1.015);
+  background-color: #fffdf9;
+  border-color: var(--color-primary);
+}
+
+.mask-q {
+  font-size: 3.8rem;
+  font-weight: 900;
+  color: var(--color-primary);
+  line-height: 1;
+}
+
+.mask-hint {
+  font-size: 0.72rem;
+  font-weight: 800;
+  color: #a8a090;
+  margin-top: 4px;
+}
+
+/* 노출 태그 */
+.memorize-reveal-tag {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background-color: rgba(43, 122, 102, 0.85);
+  backdrop-filter: blur(4px);
+  color: #ffffff;
+  font-size: 0.72rem;
+  font-weight: 800;
+  padding: 3px 10px;
+  border-radius: 20px;
+  pointer-events: none;
+  animation: fadeIn 0.2s ease-out;
+}
+
+/* 카드 하단 구조 */
+.memorize-card-footer {
+  margin-top: 14px;
+  padding: 0 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.memorize-pattern-num {
+  font-size: 1.05rem;
+  font-weight: 900;
+  color: var(--text-dark);
+}
+
+/* 암기 완료 체크박스 커스텀 */
+.memorize-checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.85rem;
+  font-weight: 800;
+  color: #7c7267;
+  cursor: pointer;
+  user-select: none;
+  background-color: #faf8f5;
+  border: 2px solid #eeebe5;
+  border-radius: 12px;
+  padding: 4px 10px;
+  transition: all 0.2s;
+}
+
+.memorize-checkbox-label:hover {
+  border-color: #2b7a66;
+  color: #2b7a66;
+  background-color: #f4faf8;
+}
+
+.memorize-checkbox {
+  width: 16px;
+  height: 16px;
+  accent-color: #2b7a66;
+  cursor: pointer;
+}
+
+.is-memorized .memorize-checkbox-label {
+  border-color: #2b7a66;
+  color: #ffffff;
+  background-color: #2b7a66;
+  box-shadow: 0 4px 8px rgba(43, 122, 102, 0.2);
+}
+
+/* 암기 비어있는 상태 */
+.memorize-empty-state {
+  text-align: center;
+  background-color: #ffffff;
+  border: 4px dashed #eeebe5;
+  border-radius: 28px;
+  padding: 60px 24px;
+  max-width: 500px;
+  margin: 40px auto;
+  box-shadow: var(--shadow-soft);
+}
+
+.memorize-empty-state .empty-emoji {
+  font-size: 4rem;
+  margin-bottom: 16px;
+  animation: bounce 2s infinite ease-in-out;
+}
+
+.memorize-empty-state h3 {
+  font-size: 1.4rem;
+  font-weight: 900;
+  color: var(--text-dark);
+  margin-bottom: 8px;
+}
+
+.memorize-empty-state p {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  font-weight: 700;
+  margin-bottom: 24px;
+  line-height: 1.5;
+}
+
+.memorize-empty-btn {
+  background-color: var(--color-primary);
+  color: #ffffff;
+  border: none;
+  border-radius: 20px;
+  padding: 12px 28px;
+  font-family: var(--font-cute);
+  font-size: 1rem;
+  font-weight: 900;
+  cursor: pointer;
+  box-shadow: 0 6px 16px rgba(255, 126, 103, 0.2);
+  transition: all 0.2s;
+}
+
+.memorize-empty-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(255, 126, 103, 0.3);
+}
+
+/* 반응형 모바일 똑딱이 최적화 */
+@media (max-width: 768px) {
+  .memorize-controls-card {
+    padding: 16px;
+    margin-bottom: 20px;
+  }
+  .memorize-controls-title {
+    font-size: 0.95rem;
+  }
+  .memorize-filter-group {
+    gap: 8px;
+  }
+  .memorize-filter-btn {
+    padding: 8px 14px;
+    font-size: 0.8rem;
+    border-width: 2px;
+  }
+  .mask-q {
+    font-size: 3rem;
+  }
+  .mask-hint {
+    font-size: 0.65rem;
+  }
+}
+
 
